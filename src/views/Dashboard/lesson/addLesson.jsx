@@ -17,7 +17,6 @@ import {
   Controls,
   ControlGroup,
 } from "@vime/react";
-import "@vime/core/themes/default.css";
 
 export default function AddLesson() {
   const { id } = useParams();
